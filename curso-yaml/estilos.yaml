@@ -1,0 +1,9 @@
+chave2: valor
+
+chave-com-varios-valores:
+  chave: valor
+  outra-chave: outro-valor
+
+chave-lista:
+  - item
+  - outro-item
