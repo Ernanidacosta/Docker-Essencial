@@ -1,3 +1,5 @@
+#Estilo Bloco:
+
 chave1: valor
 
 chave-com-varios-valores:
@@ -8,6 +10,7 @@ chave-lista:
   - item
   - outro-item
 
+#Estilo Flow:
 
 chave2: "valor2"
 
