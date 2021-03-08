@@ -1,4 +1,6 @@
-chave2: valor
+#Estilo Bloco:
+
+chave1: valor
 
 chave-com-varios-valores:
   chave: valor
@@ -7,3 +9,11 @@ chave-com-varios-valores:
 chave-lista:
   - item
   - outro-item
+
+#Estilo Flow:
+
+chave2: "valor2"
+
+chave3: { ex-chave: ex_valor, ex-chave2: ex_valor2 }
+
+chave-lista2: [valor1, valor2]
