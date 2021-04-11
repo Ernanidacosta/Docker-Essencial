@@ -1,0 +1,5 @@
+---
+- python
+- nginx
+- postgresql
+- redis

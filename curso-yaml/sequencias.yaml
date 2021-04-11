@@ -1,0 +1,19 @@
+roles:
+  - webserver
+  - database
+
+
+# - payload
+#   - bitcoin
+#   - 
+#   - ethereum
+
+
+payload1:
+  - bitcoin
+  - ethereum
+
+
+payload2: [ bitcoin, ethereum ]
+
+

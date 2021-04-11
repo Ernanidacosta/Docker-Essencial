@@ -1,0 +1,15 @@
+---
+host: geek
+datacenter:
+  location: &SP São Paulo
+---
+host: udemy
+datacenter:
+  location: *SP
+---
+roles: &ghost
+  - webserver
+  - database
+...
+---
+roles: *ghost
